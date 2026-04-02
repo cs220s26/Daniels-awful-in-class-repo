@@ -7,4 +7,6 @@ Steps to run file in the command terminal
 * Use python3 hello.py
 
 Teammates names: 
-Mohammad Alzoubi, Jackson, Daniel Barillas
+* Mohammad Alzoubi
+* Jackson
+* Daniel Barillas
